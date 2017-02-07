@@ -1,0 +1,2 @@
+animalsy = ['bear', 'tiger']
+bear =
